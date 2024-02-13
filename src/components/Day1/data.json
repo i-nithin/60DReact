@@ -1,0 +1,24 @@
+{
+    "data" : [
+        {
+            "value" : "IN",
+            "country" : "India",
+            "cities" : [
+                "Bangalore", "Kochi", "Chennai", "Calicut", "Coimbatore"
+            ]
+        },
+        {
+            "value" : "US",
+            "country" : "United States",
+            "cities" : [
+                "New York", "Austin", "Texas", "Chicago"
+            ]
+        },
+        {
+            "value" : "RU",
+            "country" : "Russia",
+            "cities" :[]
+        }
+    ]
+}
+    
